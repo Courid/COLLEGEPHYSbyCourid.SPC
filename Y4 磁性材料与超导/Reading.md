@@ -1,7 +1,9 @@
 ## （宏观）磁阻效应
 朗道能级，磁阻效应 [[Ch10 Band Theory and Electronic Properties of Solids (John Singleton).pdf#page=3|10.3]]
+半经典霍尔效应模型 [[Ch12 Modern Condensed Matter Physics (Steven M. Girvin, Kun Yang).pdf#page=6|12.4-12.7]]
 朗道能级，霍尔效应，陈数，石墨量子霍尔平台 [[Ch3 Condensed Matter Physics A Modern Perspective (Saurabh Basu).pdf#page=1|3.1]]
-导体绝缘体相变，霍尔效应，拓扑绝缘体  [[Ch5 Electrons in Solids (Hendrik Bluhm, Thomas Brückel).pdf#page=17|5.3-5.4]]
+导体绝缘体相变，霍尔效应，拓扑绝缘体 [[Ch5 Electrons in Solids (Hendrik Bluhm, Thomas Brückel).pdf#page=17|5.3-5.4]]
+
 ## 磁性材料
 磁群，中子衍射分析 [[Ch10 Electrical, Electronic and Magnetic Properties of Solids (D.B. Sirdeshmukh).pdf#page=3|10.2-10.4]]
 
