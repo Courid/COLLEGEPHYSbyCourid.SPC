@@ -3,9 +3,11 @@
 半经典霍尔效应模型 [[Ch12 Modern Condensed Matter Physics (Steven M. Girvin, Kun Yang).pdf#page=6|12.4-12.7]]
 朗道能级，霍尔效应，陈数，石墨量子霍尔平台 [[Ch3 Condensed Matter Physics A Modern Perspective (Saurabh Basu).pdf#page=1|3.1]]
 导体绝缘体相变，霍尔效应，拓扑绝缘体 [[Ch5 Electrons in Solids (Hendrik Bluhm, Thomas Brückel).pdf#page=17|5.3-5.4]]
-## 磁性材料 3 课时
+## 磁性材料 6 课时
 磁群，中子衍射分析 [[Ch10 Electrical, Electronic and Magnetic Properties of Solids (D.B. Sirdeshmukh).pdf#page=3|10.2-10.4]]
-晶体场理论，磁致能级劈裂 [[Ch3 Magnetism in Condensed Matter (Stephen Blundell).pdf#page=1|3]]
+晶体场理论，磁致能级分裂 [[Ch3 Magnetism in Condensed Matter (Stephen Blundell).pdf#page=1|3]]
+磁化理论，晶体场效应 [[Ch4 Magnetism and Magnetic Materials (J. M. D. Coey).pdf#page=10|4.3-4.4]]
+电子交换相互作用，能带磁化 [[Ch5 Magnetism and Magnetic Materials (J. M. D. Coey).pdf#page=8|5.2-5.3]]
 磁畴，软磁性 [[Ch6 Magnetism in Condensed Matter (Stephen Blundell).pdf#page=18|6.7]]
 ## 超导机制 4 课时
 超导现象，超导相图，BCS 理论 [[Ch6 Condensed Matter Physics A Modern Perspective (Saurabh Basu).pdf#page=1|6.1-6.4]]
