@@ -15,4 +15,5 @@
 能隙测量实验 [[Ch6 Condensed Matter Physics A Modern Perspective (Saurabh Basu).pdf#page=58|6.7]]
 ## 超导测量 3 课时
 超导隧穿，SQUID [[Ch13 Electrical, Electronic and Magnetic Properties of Solids (D.B. Sirdeshmukh).pdf#page=38|13.7]]
+不同形式的非对称约瑟夫森效应 [[Josephson junctions, superconducting circuits 2405.20911v2.pdf#page=5|1.4-1.7]]
 宏观量子关联 [[Ch3 Superconductivity, Superfluids, and Condensates (James F_ Annett).pdf#page=28|3.9]]
