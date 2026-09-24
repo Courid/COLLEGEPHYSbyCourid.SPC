@@ -1,0 +1,25 @@
+## 测地线 6 课时
+非欧几何 [[Ch2 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=8|2.9-2.14]]
+协变导数，切空间 [[Ch7 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=3|7.2-7.5]] 
+测地线方程 [[Ch9 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=1|9]] 
+能动张量 [[Ch3 Spacetime and Geometry_ An Introduction to General (Sean Carroll).pdf#page=16|3.4-3.5]]
+基底变换，自由落体 [[Ch10 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=1|10]]
+## 场方程 3 课时
+曲率张量，等效原理，潮汐力 [[Ch7 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=1|7]]
+爱因斯坦场方程 [[Ch13 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=1|13]]
+曲率张量恒等式，场方程，局域坐标系 [[Ch5 An Introduction to General Relativity and Cosmology Theory, Observations, and Applications (Steven A. Balbus).pdf#page=8|5.5-5.11]]
+能动张量条件 [[Ch4 Spacetime and Geometry_ An Introduction to General (Sean Carroll).pdf#page=24|4.6]]
+## 引力场势 6 课时
+史瓦西度规下的坐标 [[Ch21 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=1|21]]
+贝克霍夫定理 [[Ch5 Introduction to General Relativity (Lewis H_ Ryder).pdf#page=10|5.3]]
+史瓦西时空下的运动方程 [[Ch22 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=1|22]]
+史瓦西度规，有（无）质量粒子的运动 [[Ch9 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=1|9]]
+轨道进动，光线弯折 [[Ch10 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=1|10.1-10.3]]
+广相计算验证 [[Ch8 Introduction to General Relativity (Bin Chen).pdf#page=12|8.3-8.4]]
+引力透镜，爱因斯坦环 [[Ch15 Dynamics and Astrophysics of Galaxies (Jo Bovy).pdf#page=4|15.1]]
+## 宇宙学模型 5 课时
+宇宙几何特征，FRW 度规，宇宙学场方程 [[Ch14 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=1|14]]
+宇宙学红移 [[Ch10 Introduction to General Relativity (Lewis H_ Ryder).pdf#page=15|10.3-10.6]]
+宇宙学常数，宇宙学模型演化 [[Ch18 General Relativity for the Gifted Amateur (Tom Lancaster, Stephen Blundell).pdf#page=11|18]]
+不同宇宙模型动力学  [[Ch15 General Relativity An Introduction for Physicists (M. P. Hobson, G. P. Efstathiou etc.).pdf#page=8|15.4-15.6]]
+当前宇宙，宇宙学参数测量 [[Ch10 An Introduction to General Relativity and Cosmology Theory, Observations, and Applications (Steven A. Balbus).pdf#page=26|10.4-10.6]]
